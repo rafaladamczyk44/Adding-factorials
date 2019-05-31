@@ -8,3 +8,5 @@ Nothing special but it took me a while to understand how to;
 3) join the two above together
 
 Hope you it helps you somehow!
+
+EDIT: If you only want to count the factorial just change the used function in code from "addingFactorial" to "factorial"
